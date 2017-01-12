@@ -1,29 +1,29 @@
 /* No comment provided by engineer. */
-"%d days ago" = "%d d";
+"%d days ago" = "%dd";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d h";
+"%d hours ago" = "%dh";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d m";
+"%d minutes ago" = "%dm";
 
 /* No comment provided by engineer. */
 "%d months ago" = "%d month";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d s";
+"%d seconds ago" = "%ds";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d w";
+"%d weeks ago" = "%dw";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d y";
+"%d years ago" = "%dy";
 
 /* No comment provided by engineer. */
-"A minute ago" = "1 m";
+"A minute ago" = "1m";
 
 /* No comment provided by engineer. */
-"An hour ago" = "1 h";
+"An hour ago" = "1h";
 
 /* No comment provided by engineer. */
 "Just now" = "now";
@@ -47,10 +47,10 @@
 "1 month ago" = "1 Month";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 w";
+"1 week ago" = "1w";
 
 /* No comment provided by engineer. */
-"1 day ago" = "1 d";
+"1 day ago" = "1d";
 
 /* No comment provided by engineer. */
 "This morning" = "This morning";
